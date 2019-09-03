@@ -24,6 +24,7 @@ class Game
 		vec1 chance; // increased or decreased by magic
 
 	public: // oh
+	//another
 	
 		Game();
 		void play_round();
