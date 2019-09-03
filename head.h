@@ -23,7 +23,7 @@ class Game
 		typedef vector<int> vec1;// each chance starts as a one and can be 
 		vec1 chance; // increased or decreased by magic
 
-	public:
+	public: // oh
 	
 		Game();
 		void play_round();
