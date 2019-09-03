@@ -10,7 +10,7 @@ int main()
 	Game game = Game();
 	bool start = false;
 	string ans;
-
+	
 	cout << "Generic welcome message" << endl;
 
 	while(!start){
@@ -22,13 +22,13 @@ int main()
 
 	while(1){
 		game.play_round();
+		
 
 		cout << "----------------Current score----------------" << endl;
 		cout << "----You : " << game.Get_number_pw() << " ----" << endl;
 		cout << "----Them: " << game.Get_number_aw() << " ----" << endl;
 		cout << "----Ties: " << game.Get_number_ties() << " ----" << endl;
 
-		
 	}
 
 

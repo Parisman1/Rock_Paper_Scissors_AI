@@ -29,7 +29,7 @@ class Game
 	};
 
 	private:
-		round temp;
+		//round tempt;
 		
 		typedef vector<class round> vec0;
 		vec0 rounds;
