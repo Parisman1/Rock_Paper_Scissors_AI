@@ -9,7 +9,7 @@ int main()
 {
 	Game game = Game();
 	bool start = false;
-	string ans; // help
+	string ans;
 	
 	cout << "Generic welcome message" << endl;
 

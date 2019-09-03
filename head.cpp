@@ -109,7 +109,7 @@
 				break;
 			case 2:
 				cout << "Scissors!" << endl;
-				break; // me
+				break;
 		}
 
 		decide_winner(ans, robo_ans);
