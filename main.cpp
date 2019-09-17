@@ -14,7 +14,7 @@ int main()
 	cout << "Generic welcome message" << endl;
 
 	while(!start){
-		cout << "Are you ready to slowly get your ass handed to you by a bad bot? (Y/N)" << endl;
+		cout << "Are you ready to play rock paper scissors? (Y/N)" << endl;
 		cin >> ans;
 
 		if(ans == "Y"){start = true;}
